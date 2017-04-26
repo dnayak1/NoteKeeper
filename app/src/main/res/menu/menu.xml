@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Show All"
+        android:id="@+id/showAllNotesMenu" />
+    <item android:title="Show Pending"
+        android:id="@+id/showPendingMenu" />
+    <item android:title="Show Completed"
+        android:id="@+id/showCompletedMenu" />
+    <item android:title="Sort By Time"
+        android:id="@+id/sortByTimeMenu" />
+    <item android:title="Sort By Priority"
+        android:id="@+id/sortByPriorityMenu" />
+</menu>

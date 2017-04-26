@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Realm</string>
+    <array name="priority">
+        <item>Priority</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </array>
+</resources>
